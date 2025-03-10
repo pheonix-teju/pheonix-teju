@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pheonix-teju
-- 👀 I’m interested in Digital Hardware programming like Verilog and VHDL, Python, C / C++ and PCB design
-- 🌱 I’m currently learning microcontroller programming using C and C++, FPGA programming and PCB design
+- 👀 I’m interested in Digital Hardware programming like Verilog and VHDL, Python.
+- 🌱 I’m currently learning object oriented programming languages like C++ and FPGA prototyping
 - 💞️ I’m looking to collaborate on Digital Hardware programming
 - 📫 How to reach me - tejunivarthi@gmail.com
 
